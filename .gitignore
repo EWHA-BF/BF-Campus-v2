@@ -1,0 +1,14 @@
+#firebase
+firebase.js
+
+#app.json
+app.json
+
+#eas
+eas.json
+
+#google
+google-services.json
+
+node_modules
+.DS_Store
